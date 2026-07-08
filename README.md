@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+Guys!;I'm+Atul+Krishna +S;Computer+Science+Student;Web+Developer;Learning+AI" />
+</p>
+
 # 💫 About Me:
 🔭 I'm currently working on<br><br>Python projects, web development, and improving my Data Structures & Algorithms skills.<br><br>👯 I'm looking to collaborate on<br><br>Open-source projects, Python applications, and beginner-friendly web development projects.<br><br>🤝 I'm looking for help with<br><br>Machine Learning, AI projects, and advanced web technologies.<br><br>🌱 I'm currently learning<br><br>Python, C, HTML, CSS, JavaScript, SQL, Data Structures & Algorithms.<br><br>💬 Ask me about<br><br>Python, C programming, web development, Git, and beginner programming.<br><br>⚡ Fun fact<br><br>I enjoy solving coding challenges, exploring new technologies, and gaming in my free time.
 
