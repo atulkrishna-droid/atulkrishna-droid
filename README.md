@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+Guys!;I'm+Atul+Krishna +S;Computer+Science+Student;Web+Developer;Learning+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi+there!;I'm+Atul+Krishna+S;B.Tech+CSE+(Data+Science)+Student;Python+%7C+Java+%7C+C%2B%2B;Web+Development+Enthusiast;Learning+AI+%26+Data+Science" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
